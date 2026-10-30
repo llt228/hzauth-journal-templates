@@ -1,4 +1,3 @@
-# LaTeX intermediate files
 *.aux
 *.log
 *.out
@@ -18,6 +17,4 @@
 *.spl
 mainNotes.bib
 acs-main.bib
-
-# Keep the compiled preview that the template market uses as a cover.
 !main.pdf

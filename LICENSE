@@ -22,7 +22,7 @@ SOFTWARE.
 
 ---
 
-Note: the official document classes, bibliography styles, and other files under
-journals/*/ and assets/*/ are third-party works and are NOT covered by the MIT
-license above.  They retain their original copyright and licenses (see
-THIRD_PARTY_NOTICES.md).
+Note: the official document classes, bibliography styles, sample .tex files,
+and other files under journals/*/ are third-party works and are NOT covered by
+the MIT license above.  They retain their original copyright and license
+headers, as stated in the files themselves.

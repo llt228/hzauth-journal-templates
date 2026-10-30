@@ -1,16 +1,6 @@
-# Build cache created when a writable TEXMFVAR is needed
+# Font cache created when compiling in a restricted environment
 .texmf-var/
 
-# Python
-__pycache__/
-*.pyc
-
-# Local logs
-build.log
-
-# OS / editor
+# OS files
 .DS_Store
 Thumbs.db
-*.swp
-.idea/
-.vscode/

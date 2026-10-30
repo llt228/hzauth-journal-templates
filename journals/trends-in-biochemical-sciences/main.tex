@@ -1,126 +1,263 @@
-% !TeX program = pdflatex
-% ============================================================================
-%  期刊（目录原表名称）：Trends in Biochemical Sciences
-%  期刊（官方标题）    ：Trends in Biochemical Sciences
-%  分级                ：A（自然科学类）
-%  出版商              ：Elsevier
-%  官方文档类          ：Elsevier elsarticle v3.4 (2024/04/04)
-%  文档类来源          ：https://ctan.org/pkg/elsarticle
-%  投稿指南            ：https://www.elsevier.com/researcher/author/policies-and-guidelines/latex-instructions
-%  文档类许可证        ：LPPL 1.3（类文件未作任何修改）
-% ============================================================================
-%  这是投稿模板，不是真实论文。标题、作者、单位、摘要、正文、图表和文献
-%  都是示例内容，请全部替换为您自己的材料。
-%
-%  请勿修改随附的 .cls / .sty / .bst 文件；排版由出版商官方文档类负责。
-%  编译：latexmk -pdf main.tex
-% ============================================================================
-
+%% 
+%% Copyright 2007-2024 Elsevier Ltd
+%% 
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%% 
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.3 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%% 
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%% 
+%% Template article for Elsevier's document class `elsarticle'
+%% with numbered style bibliographic references
+%% SP 2008/03/01
+%% $Id: elsarticle-template-num.tex 249 2024-04-06 10:51:24Z rishi $
+%%
 \documentclass[preprint,12pt]{elsarticle}
-\usepackage{amsmath,amssymb}
-\usepackage{graphicx}
-\usepackage{booktabs}
-\usepackage[hidelinks]{hyperref}
+
+%% Use the option review to obtain double line spacing
+%% \documentclass[authoryear,preprint,review,12pt]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn]{elsarticle}
+%% \documentclass[final,3p,times]{elsarticle}
+%% \documentclass[final,3p,times,twocolumn]{elsarticle}
+%% \documentclass[final,5p,times]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% For including figures, graphicx.sty has been loaded in
+%% elsarticle.cls. If you prefer to use the old commands
+%% please give \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+\usepackage{amssymb}
+%% The amsmath package provides various useful equation environments.
+\usepackage{amsmath}
+%% The amsthm package provides extended theorem environments
+%% \usepackage{amsthm}
+
+%% The lineno packages adds line numbers. Start line numbering with
+%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
+%% for the whole article with \linenumbers.
+%% \usepackage{lineno}
 
 \journal{Trends in Biochemical Sciences}
 
 \begin{document}
 
 \begin{frontmatter}
+
+%% Title, authors and addresses
+
+%% use the tnoteref command within \title for footnotes;
+%% use the tnotetext command for theassociated footnote;
+%% use the fnref command within \author or \affiliation for footnotes;
+%% use the fntext command for theassociated footnote;
+%% use the corref command within \author for corresponding author footnotes;
+%% use the cortext command for theassociated footnote;
+%% use the ead command for the email address,
+%% and the form \ead[url] for the home page:
+%% \title{Title\tnoteref{label1}}
+%% \tnotetext[label1]{}
+%% \author{Name\corref{cor1}\fnref{label2}}
+%% \ead{email address}
+%% \ead[url]{home page}
+%% \fntext[label2]{}
+%% \cortext[cor1]{}
+%% \affiliation{organization={},
+%%             addressline={},
+%%             city={},
+%%             postcode={},
+%%             state={},
+%%             country={}}
+%% \fntext[label3]{}
+
 \title{A \LaTeX{} Submission Template for \textit{Trends in Biochemical Sciences}}
 
-\author[a]{First Author\corref{cor1}}
-\ead{first.author@example.edu}
-\author[b]{Second Author}
-\affiliation[a]{organization={Department of Example Science, Example University},
-                city={Wuhan}, postcode={430070}, country={China}}
-\affiliation[b]{organization={Example Research Institute},
-                city={Beijing}, postcode={100190}, country={China}}
-\cortext[cor1]{Corresponding author.}
+%% use optional labels to link authors explicitly to addresses:
+%% \author[label1,label2]{}
+%% \affiliation[label1]{organization={},
+%%             addressline={},
+%%             city={},
+%%             postcode={},
+%%             state={},
+%%             country={}}
+%%
+%% \affiliation[label2]{organization={},
+%%             addressline={},
+%%             city={},
+%%             postcode={},
+%%             state={},
+%%             country={}}
 
+\author{Author Name} %% Author name
+
+%% Author affiliation
+\affiliation{organization={Institution},%Department and Organization
+            addressline={}, 
+            city={City},
+            postcode={},
+            state={},
+            country={Country}}
+
+%% Abstract
 \begin{abstract}
-This document demonstrates the official Elsevier \texttt{elsarticle} class
-configured for \textit{Trends in Biochemical Sciences}. It is a template, not a real manuscript:
-replace the front matter, body text, figures, tables, and references with
-your own material.
+%% Text of abstract
+Abstract text.
 \end{abstract}
 
+%% Keywords
 \begin{keyword}
-template \sep \LaTeX \sep Elsevier \sep Trends in Biochemical Sciences
+%% keywords here, in the form: keyword \sep keyword
+
+%% PACS codes here, in the form: \PACS code \sep code
+
+%% MSC codes here, in the form: \MSC code \sep code
+%% or \MSC[2008] code \sep code (2000 is the default)
+
 \end{keyword}
+
 \end{frontmatter}
 
-\maketitle
+%% Add \usepackage{lineno} before \begin{document} and uncomment 
+%% following line to enable line numbers
+%% \linenumbers
 
-\section{Introduction}
-\label{sec:introduction}
-This document is a submission template for \textit{Trends in Biochemical Sciences}. It is typeset
-with the publisher's official \LaTeX{} document class; the class, not this
-file, controls the page layout, fonts, and reference formatting. Every piece
-of text in this sample---including the author names, affiliations, abstract,
-and references---is a placeholder \cite{example2024,example2020}.
+%% main text
+%%
 
-Replace the sample material with your own manuscript, but keep the document
-class and the front-matter commands unchanged. Check the journal's current
-Guide for Authors before submission because article types, word limits, and
-reference styles can change.
+%% Use \section commands to start a section
+\section{Example Section}
+\label{sec1}
+%% Labels are used to cross-reference an item using \ref command.
 
-\section{Using this template}
-\label{sec:usage}
-\begin{itemize}
-  \item Edit \texttt{main.tex} only; the accompanying \texttt{.cls},
-        \texttt{.sty}, and \texttt{.bst} files are official files and
-        must remain unmodified.
-  \item Put figures in \texttt{figures/} and include them with
-        \verb|\includegraphics|; a sample vector figure is already provided.
-  \item Replace the entries in \texttt{references.bib} and cite them with
-        \verb|\cite|. The two entries shipped with the template are examples.
-  \item Build the PDF with \texttt{latexmk -pdf main.tex}.
-\end{itemize}
+Section text. See Subsection \ref{subsec1}.
 
-\section{Mathematics, tables, and figures}
-\label{sec:elements}
-Inline mathematics such as $E = mc^2$ and displayed equations are supported:
+%% Use \subsection commands to start a subsection.
+\subsection{Example Subsection}
+\label{subsec1}
+
+Subsection text.
+
+%% Use \subsubsection, \paragraph, \subparagraph commands to 
+%% start 3rd, 4th and 5th level sections.
+%% Refer following link for more details.
+%% https://en.wikibooks.org/wiki/LaTeX/Document_Structure#Sectioning_commands
+
+\subsubsection{Mathematics}
+%% Inline mathematics is tagged between $ symbols.
+This is an example for the symbol $\alpha$ tagged as inline mathematics.
+
+%% Displayed equations can be tagged using various environments. 
+%% Single line equations can be tagged using the equation environment.
 \begin{equation}
-  \int_{-\infty}^{\infty} e^{-x^{2}}\,\mathrm{d}x = \sqrt{\pi}.
-  \label{eq:gaussian}
+f(x) = (x+a)(x+b)
 \end{equation}
 
-\begin{table}[t]
-  \centering
-  \caption{An example table typeset with \texttt{booktabs}. Replace it with your own data.}
-  \label{tab:example}
-  \begin{tabular}{lcc}
-    \toprule
-    Item & Value & Unit \\
-    \midrule
-    Alpha & 1.0 & a.u. \\
-    Beta  & 2.0 & a.u. \\
-    \bottomrule
-  \end{tabular}
+%% Unnumbered equations are tagged using starred versions of the environment.
+%% amsmath package needs to be loaded for the starred version of equation environment.
+\begin{equation*}
+f(x) = (x+a)(x+b)
+\end{equation*}
+
+%% align or eqnarray environments can be used for multi line equations.
+%% & is used to mark alignment points in equations.
+%% \\ is used to end a row in a multiline equation.
+\begin{align}
+ f(x) &= (x+a)(x+b) \\
+      &= x^2 + (a+b)x + ab
+\end{align}
+
+\begin{eqnarray}
+ f(x) &=& (x+a)(x+b) \nonumber\\ %% If equation numbering is not needed for a row use \nonumber.
+      &=& x^2 + (a+b)x + ab
+\end{eqnarray}
+
+%% Unnumbered versions of align and eqnarray
+\begin{align*}
+ f(x) &= (x+a)(x+b) \\
+      &= x^2 + (a+b)x + ab
+\end{align*}
+
+\begin{eqnarray*}
+ f(x)&=& (x+a)(x+b) \\
+     &=& x^2 + (a+b)x + ab
+\end{eqnarray*}
+
+%% Refer following link for more details.
+%% https://en.wikibooks.org/wiki/LaTeX/Mathematics
+%% https://en.wikibooks.org/wiki/LaTeX/Advanced_Mathematics
+
+%% Use a table environment to create tables.
+%% Refer following link for more details.
+%% https://en.wikibooks.org/wiki/LaTeX/Tables
+\begin{table}[t]%% placement specifier
+%% Use tabular environment to tag the tabular data.
+%% https://en.wikibooks.org/wiki/LaTeX/Tables#The_tabular_environment
+\centering%% For centre alignment of tabular.
+\begin{tabular}{l c r}%% Table column specifiers
+%% Tabular cells are separated by &
+  1 & 2 & 3 \\ %% A tabular row ends with \\
+  4 & 5 & 6 \\
+  7 & 8 & 9 \\
+\end{tabular}
+%% Use \caption command for table caption and label.
+\caption{Table Caption}\label{fig1}
 \end{table}
 
-\begin{figure}[t]
-  \centering
-  \includegraphics[width=0.62\linewidth]{figures/example-figure}
-  \caption{An example vector figure. Replace the file in \texttt{figures/} with your own artwork.}
-  \label{fig:example}
+
+%% Use figure environment to create figures
+%% Refer following link for more details.
+%% https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions
+\begin{figure}[t]%% placement specifier
+%% Use \includegraphics command to insert graphic files. Place graphics files in 
+%% working directory.
+\centering%% For centre alignment of image.
+\includegraphics{example-image-a}
+%% Use \caption command for figure caption and label.
+\caption{Figure Caption}\label{fig1}
+%% https://en.wikibooks.org/wiki/LaTeX/Importing_Graphics#Importing_external_graphics
 \end{figure}
 
-\section{Conclusion}
-\label{sec:conclusion}
-Replace this paragraph with the conclusion of your manuscript. The template
-is intentionally minimal: journal-specific requirements should be taken from
-the current author guidelines rather than added as local formatting hacks.
 
-\section*{Declaration of competing interest}
-The authors declare that they have no known competing financial interests or
-personal relationships that could have appeared to influence this work.
+%% The Appendices part is started with the command \appendix;
+%% appendix sections are then done as normal sections
+\appendix
+\section{Example Appendix Section}
+\label{app1}
 
-\section*{Data availability}
-Data sharing is not applicable to this template article.
+Appendix text.
+
+%% For citations use: 
+%%       \cite{<label>} ==> [1]
+
+%%
+Example citation, See \cite{lamport94}.
+
+%% If you have bib database file and want bibtex to generate the
+%% bibitems, please use
+%%
+%%  \bibliographystyle{elsarticle-num} 
+%%  \bibliography{<your bibdatabase>}
+
+%% else use the following coding to input the bibitems directly in the
+%% TeX file.
+
+%% Refer following link for more details about bibliography and citations.
+%% https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management
 
 \bibliographystyle{elsarticle-num}
 \bibliography{references}
-
 \end{document}
+
+\endinput
+%%
+%% End of file `elsarticle-template-num.tex'.
