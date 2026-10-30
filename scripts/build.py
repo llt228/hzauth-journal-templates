@@ -665,6 +665,38 @@ def write_catalog(data: dict) -> None:
             writer.writeheader()
             writer.writerows(rows)
 
+    map_fields = [
+        "name", "title", "level", "sheet", "publisher", "issn", "slug",
+        "template", "template_name", "template_version", "template_source",
+        "guidelines", "license", "entry", "output",
+    ]
+    map_rows = []
+    for journal in journals:
+        if journal["status"] != "included":
+            continue
+        meta = template_info(journal)
+        map_rows.append({
+            "name": journal["name"],
+            "title": journal["title"],
+            "level": journal["level"],
+            "sheet": journal["sheet"],
+            "publisher": journal["publisher"],
+            "issn": journal.get("issn", ""),
+            "slug": journal["slug"],
+            "template": journal["template"],
+            "template_name": meta["name"],
+            "template_version": meta["version"],
+            "template_source": meta["source"],
+            "guidelines": meta["guidelines"],
+            "license": meta["license"],
+            "entry": f"journals/{journal['slug']}/main.tex",
+            "output": f"journals/{journal['slug']}/main.pdf",
+        })
+    with (CATALOG_DIR / "template-map.csv").open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=map_fields)
+        writer.writeheader()
+        writer.writerows(map_rows)
+
     stats = {
         "source": data["source"],
         "included": len([j for j in journals if j["status"] == "included"]),

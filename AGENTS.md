@@ -22,8 +22,11 @@
 ├── catalog/
 │   ├── journals.json         # 全量 214 刊 + 收录状态（生成的唯一数据源）
 │   ├── journals.csv          # 同上，便于查阅
+│   ├── all_journals.csv      # 原始表全部 1634 条（含 B/C 级）
 │   ├── included.csv          # 已收录 59 刊
 │   ├── skipped.csv           # 未收录 155 刊及原因
+│   ├── template-map.csv      # 59 刊 → 模板/来源/版本/许可证/入口文件
+│   ├── sources.md            # 各出版商官方模板检索记录
 │   └── stats.json            # 统计数字
 ├── scripts/
 │   ├── build.py              # 从 catalog/journals.json 生成 journals/*

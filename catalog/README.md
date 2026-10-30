@@ -75,11 +75,15 @@ GET https://api.crossref.org/works?query.container-title=<刊名>&rows=20
 | `template` | 已收录期刊使用的模板键 |
 | `reason` | 未收录原因 |
 
-## 6. 检索记录
+## 6. 模板映射
+
+`template-map.csv` 是给模板市场/导入程序用的扁平表：59 个已收录期刊各一行，包含 `template`、`template_name`、`template_version`、`template_source`、`guidelines`、`license`、`entry`、`output` 等字段。
+
+## 7. 检索记录
 
 各出版商的官方模板页面、可获取性与处理决定见 [`sources.md`](sources.md)。
 
-## 7. 已知局限
+## 8. 已知局限
 
 - Crossref 的出版商字段有时是托管平台而非学会，个刊的投稿指南可能与本仓库使用的出版商统一模板不同；投稿前必须以期刊 Guide for Authors 为准。
 - 未逐刊抓取 214 个期刊的投稿页面；“未收录”只表示未获得可公开再分发的官方文档类，不表示该刊不接受 LaTeX。

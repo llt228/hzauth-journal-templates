@@ -160,7 +160,7 @@ python3 scripts/verify.py            # 校验目录完整性与 PDF 产物
 - **《求是》《中国社会科学》等中文期刊**：未检索到公开的官方 LaTeX 模板。
 - **Springer Nature、Wiley、SAGE、Taylor & Francis 等**：官方模板通常通过 Overleaf 或出版社投稿系统分发，未能获得可再分发的文件，因此未收录；这不代表这些期刊不接受 LaTeX 投稿。
 
-各出版商的核对记录见 [`catalog/sources.md`](catalog/sources.md)。全量 214 刊的出版商、ISSN、收录状态与原因见 [`catalog/journals.csv`](catalog/journals.csv)，未收录清单见 [`catalog/skipped.csv`](catalog/skipped.csv)。原始表的全部 1634 条记录（含 B/C 级）见 [`catalog/all_journals.csv`](catalog/all_journals.csv)。
+各出版商的核对记录见 [`catalog/sources.md`](catalog/sources.md)。全量 214 刊的出版商、ISSN、收录状态与原因见 [`catalog/journals.csv`](catalog/journals.csv)，未收录清单见 [`catalog/skipped.csv`](catalog/skipped.csv)。原始表的全部 1634 条记录（含 B/C 级）见 [`catalog/all_journals.csv`](catalog/all_journals.csv)；59 刊与模板的对应关系（含来源、版本、许可证、入口文件）见 [`catalog/template-map.csv`](catalog/template-map.csv)。
 
 ## 未收录清单（按出版商）
 
