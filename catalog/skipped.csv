@@ -1,0 +1,156 @@
+name,title,slug,level,sheet,publisher,issn,status,template,reason
+Nature,Nature,nature,A+,自然科学类,Springer Nature,0028-0836;1476-4687,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Science,Science,science,A+,自然科学类,AAAS,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+中国社会科学,中国社会科学,,A+,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+求是,求是,,A+,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+Academy of Management Annals,Academy of Management Annals,academy-of-management-annals,A,人文社科类,Academy of Management,1941-6520;1941-6067,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Academy of Management Journal,Academy of Management Journal,academy-of-management-journal,A,人文社科类,Academy of Management,0001-4273;1948-0989,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Academy of Management Perspectives,Academy of Management Perspectives,academy-of-management-perspectives,A,人文社科类,Academy of Management,1558-9080;1943-4529,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Academy of Management Review,Academy of Management Review,academy-of-management-review,A,人文社科类,Academy of Management,0363-7425;1930-3807,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Acta Neuropathologica,Acta Neuropathologica,acta-neuropathologica,A,自然科学类,Springer Nature,0001-6322;1432-0533,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Administrative Science Quarterly,Administrative Science Quarterly,administrative-science-quarterly,A,人文社科类,JSTOR,0001-8392,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Advanced Energy Materials,Advanced Energy Materials,advanced-energy-materials,A,自然科学类,Wiley,1614-6832;1614-6840,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Advanced Functional Materials,Advanced Functional Materials,advanced-functional-materials,A,自然科学类,Wiley,1616-301X;1616-3028,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Advanced Materials,Advanced Materials,advanced-materials,A,自然科学类,Wiley,0935-9648;1521-4095,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Advanced Science,Advanced Science,advanced-science,A,自然科学类,Wiley,2198-3844;2198-3844,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Advances in Experimental Social Psychology,Advances in Experimental Social Psychology,advances-in-experimental-social-psychology,A,人文社科类,Elsevier,0065-2601,skipped,elsarticle,丛书（非期刊），不建立期刊模板
+Advances in Optics and Photonics,Advances in Optics and Photonics,advances-in-optics-and-photonics,A,自然科学类,Optica Publishing Group,1943-8206,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Advances in Physics,Advances in Physics,advances-in-physics,A,自然科学类,Taylor & Francis (Informa),0001-8732;1460-6976,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+American Journal of Psychiatry,American Journal of Psychiatry,american-journal-of-psychiatry,A,人文社科类,American Psychiatric Association Publishing,0002-953X;1535-7228,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+American Psychologist,American Psychologist,american-psychologist,A,人文社科类,American Psychological Association (APA),0003-066X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annals of Internal Medicine,Annals of Internal Medicine,annals-of-internal-medicine,A,自然科学类,American College of Physicians,0003-4819;1539-3704,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Astronomy and Astrophysics,Annual Review of Astronomy and Astrophysics,annual-review-of-astronomy-and-astrophysics,A,自然科学类,Annual Reviews,0066-4146;1545-4282,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Biochemistry,Annual Review of Biochemistry,annual-review-of-biochemistry,A,自然科学类,Annual Reviews,0066-4154;1545-4509,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Cell and Developmental Biology,Annual Review of Cell and Developmental Biology,annual-review-of-cell-and-developmental-biology,A,自然科学类,Annual Reviews,1081-0706;1530-8995,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Clinical Psychology,Annual Review of Clinical Psychology,annual-review-of-clinical-psychology,A,自然科学类,Annual Reviews,1548-5943;1548-5951,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Condensed Matter Physics,Annual Review of Condensed Matter Physics,annual-review-of-condensed-matter-physics,A,自然科学类,Annual Reviews,1947-5454;1947-5462,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Ecology Evolution and Systematics,Annual Review of Ecology Evolution and Systematics,annual-review-of-ecology-evolution-and-systematics,A,自然科学类,Annual Reviews,1543-592X;1545-2069,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Entomology,Annual Review of Entomology,annual-review-of-entomology,A,自然科学类,Annual Reviews,0066-4170;1545-4487,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Environment and Resources,Annual Review of Environment and Resources,annual-review-of-environment-and-resources,A,人文社科类,Annual Reviews,1543-5938;1545-2050,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Fluid Mechanics,Annual Review of Fluid Mechanics,annual-review-of-fluid-mechanics,A,自然科学类,Annual Reviews,0066-4189;1545-4479,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Immunology,Annual Review of Immunology,annual-review-of-immunology,A,自然科学类,Annual Reviews,0732-0582;1545-3278,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Marine Science,Annual Review of Marine Science,annual-review-of-marine-science,A,自然科学类,Annual Reviews,1941-1405;1941-0611,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Materials Research,Annual Review of Materials Research,annual-review-of-materials-research,A,自然科学类,Annual Reviews,1531-7331;1545-4118,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Neuroscience,Annual Review of Neuroscience,annual-review-of-neuroscience,A,自然科学类,Annual Reviews,0147-006X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Organizational Psychology and Organizational Behavior,Annual Review of Organizational Psychology and Organizational Behavior,annual-review-of-organizational-psychology-and-organizational-behavior,A,人文社科类,Annual Reviews,2327-0608;2327-0616,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Pathology-Mechanisms of Disease,Annual Review of Pathology-Mechanisms of Disease,annual-review-of-pathology-mechanisms-of-disease,A,自然科学类,Annual Reviews,1553-4006;1553-4014,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Physiology,Annual Review of Physiology,annual-review-of-physiology,A,自然科学类,Annual Reviews,0066-4278;1545-1585,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Plant Biology,Annual Review of Plant Biology,annual-review-of-plant-biology,A,自然科学类,Annual Reviews,1543-5008;1545-2123,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Psychology,Annual Review of Psychology,annual-review-of-psychology,A,自然科学类,Annual Reviews,0066-4308;1545-2085,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Public Health,Annual Review of Public Health,annual-review-of-public-health,A,自然科学类,Annual Reviews,0163-7525,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Annual Review of Sociology,Annual Review of Sociology,annual-review-of-sociology,A,人文社科类,Annual Reviews,0360-0572,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Applied Physics Reviews,Applied Physics Reviews,applied-physics-reviews,A,自然科学类,AIP Publishing,1931-9401,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Astronomy and Astrophysics Review,Astronomy and Astrophysics Review,astronomy-and-astrophysics-review,A,自然科学类,Springer Nature,0935-4956;1432-0754,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Behavioral and Brain Sciences,Behavioral and Brain Sciences,behavioral-and-brain-sciences,A,自然科学类,Cambridge University Press (CUP),0140-525X;1469-1825,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Blood,Blood,blood,A,自然科学类,American Society of Hematology,0006-4971;1528-0020,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+BMJ-British Medical Journal,BMJ-British Medical Journal,bmj-british-medical-journal,A,自然科学类,BMJ Publishing Group,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Ca-A Cancer Journal for Clinicians,Ca-A Cancer Journal for Clinicians,ca-a-cancer-journal-for-clinicians,A,自然科学类,Wiley,0007-9235,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Cancer Discovery,Cancer Discovery,cancer-discovery,A,自然科学类,American Association for Cancer Research (AACR),2159-8274;2159-8290,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Cell Research,Cell Research,cell-research,A,自然科学类,Springer Nature,1001-0602;1748-7838,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Chemical Society Reviews,Chemical Society Reviews,chemical-society-reviews,A,自然科学类,Royal Society of Chemistry (RSC),0306-0012;1460-4744,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Circulation,Circulation,circulation,A,自然科学类,Wolters Kluwer,0009-7322;1524-4539,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Circulation Research,Circulation Research,circulation-research,A,自然科学类,Wolters Kluwer,0009-7330;1524-4571,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Clinical Microbiology Reviews,Clinical Microbiology Reviews,clinical-microbiology-reviews,A,自然科学类,American Society for Microbiology,0893-8512;1098-6618,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Diabetes Care,Diabetes Care,diabetes-care,A,自然科学类,American Diabetes Association,0149-5992;1935-5548,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Economic Geography,Economic Geography,economic-geography,A,人文社科类,JSTOR,0013-0095,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Educational Psychologist,Educational Psychologist,educational-psychologist,A,人文社科类,Taylor & Francis (Informa),0046-1520;1532-6985,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Endocrine Reviews,Endocrine Reviews,endocrine-reviews,A,自然科学类,The Endocrine Society,0163-769X;1945-7189,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Energy & Environmental Science,Energy & Environmental Science,energy-and-environmental-science,A,自然科学类,Royal Society of Chemistry (RSC),1754-5692;1754-5706,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Entrepreneurship Theory and Practice,Entrepreneurship Theory and Practice,entrepreneurship-theory-and-practice,A,人文社科类,SAGE Publications,1042-2587;1540-6520,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Fems Microbiology Reviews,Fems Microbiology Reviews,fems-microbiology-reviews,A,自然科学类,Wiley,0168-6445,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Fungal Diversity,Fungal Diversity,fungal-diversity,A,自然科学类,BioAcademic Press Ltd.,1560-2745;1878-9129,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Genome Biology,Genome Biology,genome-biology,A,自然科学类,Springer Nature,1474-760X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Gut,Gut,gut,A,自然科学类,BMJ,0017-5749,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Health Psychology Review,Health Psychology Review,health-psychology-review,A,人文社科类,Taylor & Francis (Informa),1743-7199;1743-7202,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Intensive Care Medicine,Intensive Care Medicine,intensive-care-medicine,A,自然科学类,Springer Nature,0342-4642;1432-1238,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+International Journal of Management Reviews,International Journal of Management Reviews,international-journal-of-management-reviews,A,人文社科类,Wiley,1460-8545;1468-2370,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+International Materials Reviews,International Materials Reviews,international-materials-reviews,A,自然科学类,SAGE Publications,0950-6608;1743-2804,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+JAMA Internal Medicine,JAMA Internal Medicine,jama-internal-medicine,A,自然科学类,American Medical Association (AMA),2168-6106,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Jama Journal of the American Medical Association,Jama Journal of the American Medical Association,jama-journal-of-the-american-medical-association,A,自然科学类,American Medical Association (AMA),0098-7484,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+JAMA Oncology,JAMA Oncology,jama-oncology,A,自然科学类,American Medical Association (AMA),2374-2437,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+JAMA Psychiatry,JAMA Psychiatry,jama-psychiatry,A,自然科学类,American Medical Association (AMA),2168-622X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Clinical Oncology,Journal of Clinical Oncology,journal-of-clinical-oncology,A,自然科学类,American Society of Clinical Oncology (ASCO),,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Economic Literature,Journal of Economic Literature,journal-of-economic-literature,A,人文社科类,American Economic Association,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Economic Perspectives,Journal of Economic Perspectives,journal-of-economic-perspectives,A,人文社科类,American Economic Association,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Finance,Journal of Finance,journal-of-finance,A,人文社科类,Wiley,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of International Business Studies,Journal of International Business Studies,journal-of-international-business-studies,A,人文社科类,Springer Nature,0047-2506;1478-6990,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Management,Journal of Management,journal-of-management,A,人文社科类,SAGE Publications,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Marketing,Journal of Marketing,journal-of-marketing,A,人文社科类,SAGE Publications,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Operations Management,Journal of Operations Management,journal-of-operations-management,A,人文社科类,Wiley,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Pineal Research,Journal of Pineal Research,journal-of-pineal-research,A,自然科学类,Wiley,0742-3098;1600-079X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Statistical Software,Journal of Statistical Software,journal-of-statistical-software,A,自然科学类,Foundation for Open Access Statistic,1548-7660,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of Supply Chain Management,Journal of Supply Chain Management,journal-of-supply-chain-management,A,人文社科类,Wiley,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Journal of the Academy of Marketing Science,Journal of the Academy of Marketing Science,journal-of-the-academy-of-marketing-science,A,人文社科类,Springer Nature,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Light-Science & Applications,Light-Science & Applications,light-science-and-applications,A,自然科学类,Springer Nature,2047-7538,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Living Reviews in Relativity,Living Reviews in Relativity,living-reviews-in-relativity,A,自然科学类,Springer Nature,2367-3613;1433-8351,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Living Reviews in Solar Physics,Living Reviews in Solar Physics,living-reviews-in-solar-physics,A,自然科学类,Springer Nature,2367-3648;1614-4961,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Microbiology and Molecular Biology Reviews,Microbiology and Molecular Biology Reviews,microbiology-and-molecular-biology-reviews,A,自然科学类,American Society for Microbiology,1092-2172;1098-5557,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Mis Quarterly,Mis Quarterly,mis-quarterly,A,人文社科类,MIS Quarterly,0276-7783;2162-9730,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Biomedical Engineering,Nature Biomedical Engineering,nature-biomedical-engineering,A,自然科学类,Springer Nature,2157-846X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Biotechnology,Nature Biotechnology,nature-biotechnology,A,自然科学类,Springer Nature,1087-0156;1546-1696,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Catalysis,Nature Catalysis,nature-catalysis,A,自然科学类,Springer Nature,2520-1158,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Cell Biology,Nature Cell Biology,nature-cell-biology,A,自然科学类,Springer Nature,1465-7392;1476-4679,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Chemical Biology,Nature Chemical Biology,nature-chemical-biology,A,自然科学类,Springer Nature,1552-4450;1552-4469,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Chemistry,Nature Chemistry,nature-chemistry,A,自然科学类,Springer Nature,1755-4330;1755-4349,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Climate Change,Nature Climate Change,nature-climate-change,A,自然科学类,Springer Nature,1758-678X;1758-6798,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Electronics,Nature Electronics,nature-electronics,A,自然科学类,Springer Nature,2520-1131,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Energy,Nature Energy,nature-energy,A,自然科学类,Springer Nature,2058-7546,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Genetics,Nature Genetics,nature-genetics,A,自然科学类,Springer Nature,1061-4036;1546-1718,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Geoscience,Nature Geoscience,nature-geoscience,A,自然科学类,Springer Nature,1752-0894;1752-0908,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Human Behaviour,Nature Human Behaviour,nature-human-behaviour,A,人文社科类,Springer Nature,2397-3374,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Immunology,Nature Immunology,nature-immunology,A,自然科学类,Springer Nature,1529-2908;1529-2916,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Materials,Nature Materials,nature-materials,A,自然科学类,Springer Nature,1476-1122;1476-4660,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Medicine,Nature Medicine,nature-medicine,A,自然科学类,Springer Nature,1078-8956;1546-170X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Methods,Nature Methods,nature-methods,A,自然科学类,Springer Nature,1548-7091;1548-7105,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Microbiology,Nature Microbiology,nature-microbiology,A,自然科学类,Springer Nature,2058-5276,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Nanotechnology,Nature Nanotechnology,nature-nanotechnology,A,自然科学类,Springer Nature,1748-3387;1748-3395,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Neuroscience,Nature Neuroscience,nature-neuroscience,A,自然科学类,Springer Nature,1097-6256;1546-1726,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Photonics,Nature Photonics,nature-photonics,A,自然科学类,Springer Nature,1749-4885;1749-4893,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Physics,Nature Physics,nature-physics,A,自然科学类,Springer Nature,1745-2473;1745-2481,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Protocols,Nature Protocols,nature-protocols,A,自然科学类,Springer Nature,1754-2189;1750-2799,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Cancer,Nature Reviews Cancer,nature-reviews-cancer,A,自然科学类,Springer Nature,1474-175X;1474-1768,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Cardiology,Nature Reviews Cardiology,nature-reviews-cardiology,A,自然科学类,Springer Nature,1759-5002;1759-5010,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Chemistry,Nature Reviews Chemistry,nature-reviews-chemistry,A,自然科学类,Springer Nature,2397-3358,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Clinical Oncology,Nature Reviews Clinical Oncology,nature-reviews-clinical-oncology,A,自然科学类,Springer Nature,1759-4774;1759-4782,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Disease Primers,Nature Reviews Disease Primers,nature-reviews-disease-primers,A,自然科学类,Springer Nature,2056-676X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Drug Discovery,Nature Reviews Drug Discovery,nature-reviews-drug-discovery,A,自然科学类,Springer Nature,1474-1776;1474-1784,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Endocrinology,Nature Reviews Endocrinology,nature-reviews-endocrinology,A,自然科学类,Springer Nature,1759-5029;1759-5037,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Gastroenterology & Hepatology,Nature Reviews Gastroenterology & Hepatology,nature-reviews-gastroenterology-and-hepatology,A,自然科学类,Springer Nature,1759-5045;1759-5053,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Genetics,Nature Reviews Genetics,nature-reviews-genetics,A,自然科学类,Springer Nature,1471-0056;1471-0064,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Immunology,Nature Reviews Immunology,nature-reviews-immunology,A,自然科学类,Springer Nature,1474-1733;1474-1741,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Materials,Nature Reviews Materials,nature-reviews-materials,A,自然科学类,Springer Nature,2058-8437,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Microbiology,Nature Reviews Microbiology,nature-reviews-microbiology,A,自然科学类,Springer Nature,1740-1526;1740-1534,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Molecular Cell Biology,Nature Reviews Molecular Cell Biology,nature-reviews-molecular-cell-biology,A,自然科学类,Springer Nature,1471-0072;1471-0080,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Nephrology,Nature Reviews Nephrology,nature-reviews-nephrology,A,自然科学类,Springer Nature,1759-5061;1759-507X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Neurology,Nature Reviews Neurology,nature-reviews-neurology,A,自然科学类,Springer Nature,1759-4758;1759-4766,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Neuroscience,Nature Reviews Neuroscience,nature-reviews-neuroscience,A,自然科学类,Springer Nature,1471-003X;1471-0048,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Nature Reviews Rheumatology,Nature Reviews Rheumatology,nature-reviews-rheumatology,A,自然科学类,Springer Nature,1759-4790;1759-4804,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+New England Journal of Medicine,New England Journal of Medicine,new-england-journal-of-medicine,A,自然科学类,Massachusetts Medical Society,0028-4793;1533-4406,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Organization & Environment,Organization & Environment,organization-and-environment,A,人文社科类,SAGE Publications,1086-0266;1552-7417,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Organizational Research Methods,Organizational Research Methods,organizational-research-methods,A,人文社科类,SAGE Publications,1094-4281;1552-7425,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Personality and Social Psychology Review,Personality and Social Psychology Review,personality-and-social-psychology-review,A,人文社科类,SAGE Publications,1088-8683;1532-7957,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Perspectives on Psychological Science,Perspectives on Psychological Science,perspectives-on-psychological-science,A,人文社科类,SAGE Publications,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Physiological Reviews,Physiological Reviews,physiological-reviews,A,自然科学类,American Physiological Society,0031-9333;1522-1210,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Psychological Bulletin,Psychological Bulletin,psychological-bulletin,A,自然科学类,American Psychological Association (APA),1939-1455;0033-2909,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Psychological Inquiry,Psychological Inquiry,psychological-inquiry,A,人文社科类,Taylor & Francis (Informa),1047-840X;1532-7965,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Psychological Methods,Psychological Methods,psychological-methods,A,人文社科类,American Psychological Association (APA),1082-989X;1939-1463,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Psychological Review,Psychological Review,psychological-review,A,人文社科类,American Psychological Association (APA),1939-1471;0033-295X,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Psychological Science in the Public Interest,Psychological Science in the Public Interest,psychological-science-in-the-public-interest,A,人文社科类,SAGE Publications,1529-1006;1539-6053,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Psychotherapy and Psychosomatics,Psychotherapy and Psychosomatics,psychotherapy-and-psychosomatics,A,人文社科类,S. Karger AG,0033-3190;1423-0348,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Reports on Progress in Physics,Reports on Progress in Physics,reports-on-progress-in-physics,A,自然科学类,IOP Publishing,0034-4885;1361-6633,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Review of Educational Research,Review of Educational Research,review-of-educational-research,A,人文社科类,SAGE Publications,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Reviews of Geophysics,Reviews of Geophysics,reviews-of-geophysics,A,自然科学类,American Geophysical Union (AGU),8755-1209;1944-9208,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Science Robotics,Science Robotics,science-robotics,A,自然科学类,American Association for the Advancement of Science (AAAS),2470-9476,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Science Translational Medicine,Science Translational Medicine,science-translational-medicine,A,自然科学类,American Association for the Advancement of Science (AAAS),1946-6234;1946-6242,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Strategic Management Journal,Strategic Management Journal,strategic-management-journal,A,人文社科类,Wiley,,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+Studies in Mycology,Studies in Mycology,studies-in-mycology,A,自然科学类,Westerdijk Fungal Biodiversity Institute,0166-0616,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+World Psychiatry,World Psychiatry,world-psychiatry,A,自然科学类,Wiley,1723-8617;2051-5545,skipped,,未获得可公开获取并允许再分发的官方 LaTeX 文档类（不代表该刊不接受 LaTeX 投稿）
+中国法学,中国法学,,A,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+历史研究,历史研究,,A,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+外国文学评论,外国文学评论,,A,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+教育研究,教育研究,,A,人文社科类,中文期刊,2630-4686,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+新华文摘（全文转载）,新华文摘（全文转载）,,A,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+社会学研究,社会学研究,,A,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+管理世界,管理世界,,A,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+经济研究,经济研究,,A,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板
+马克思主义研究,马克思主义研究,,A,人文社科类,中文期刊,,skipped,,中文期刊，未检索到公开的官方 LaTeX 模板

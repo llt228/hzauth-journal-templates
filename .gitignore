@@ -1,0 +1,16 @@
+# Build cache created when a writable TEXMFVAR is needed
+.texmf-var/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local logs
+build.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

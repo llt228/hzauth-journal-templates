@@ -1,0 +1,17 @@
+{
+  "name": "Accounts of Chemical Research",
+  "title": "Accounts of Chemical Research",
+  "slug": "accounts-of-chemical-research",
+  "level": "A",
+  "sheet": "自然科学类",
+  "issn": "0001-4842;1520-4898",
+  "publisher": "American Chemical Society (ACS)",
+  "template": "achemso",
+  "template_name": "achemso",
+  "template_version": "3.13g (2024-01-30)",
+  "template_source": "https://ctan.org/pkg/achemso",
+  "guidelines": "https://pubs.acs.org/page/4authors/submission/tex.html",
+  "license": "LPPL 1.3",
+  "entry": "main.tex",
+  "output": "main.pdf"
+}

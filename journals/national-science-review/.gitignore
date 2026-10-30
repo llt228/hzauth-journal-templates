@@ -1,0 +1,23 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.bcf
+*.spl
+mainNotes.bib
+acs-main.bib
+
+# Keep the compiled preview that the template market uses as a cover.
+!main.pdf

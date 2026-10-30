@@ -1,0 +1,17 @@
+{
+  "name": "Journal of Business Venturing",
+  "title": "Journal of Business Venturing",
+  "slug": "journal-of-business-venturing",
+  "level": "A",
+  "sheet": "人文社科类",
+  "issn": "0883-9026",
+  "publisher": "Elsevier",
+  "template": "elsarticle",
+  "template_name": "elsarticle",
+  "template_version": "3.4 (2024/04/04)",
+  "template_source": "https://ctan.org/pkg/elsarticle",
+  "guidelines": "https://www.elsevier.com/researcher/author/policies-and-guidelines/latex-instructions",
+  "license": "LPPL 1.3",
+  "entry": "main.tex",
+  "output": "main.pdf"
+}

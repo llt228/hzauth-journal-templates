@@ -1,0 +1,17 @@
+{
+  "name": "Quarterly Journal of Economics",
+  "title": "Quarterly Journal of Economics",
+  "slug": "quarterly-journal-of-economics",
+  "level": "A",
+  "sheet": "人文社科类",
+  "issn": "",
+  "publisher": "Oxford University Press (OUP)",
+  "template": "oup",
+  "template_name": "oup-authoring-template",
+  "template_version": "1.5 (2026/07/14)",
+  "template_source": "https://ctan.org/pkg/oup-authoring-template",
+  "guidelines": "https://academic.oup.com/pages/authoring/journals",
+  "license": "LPPL 1.3",
+  "entry": "main.tex",
+  "output": "main.pdf"
+}

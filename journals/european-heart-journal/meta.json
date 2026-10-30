@@ -1,0 +1,17 @@
+{
+  "name": "European Heart Journal",
+  "title": "European Heart Journal",
+  "slug": "european-heart-journal",
+  "level": "A",
+  "sheet": "自然科学类",
+  "issn": "0195-668X;1522-9645",
+  "publisher": "Oxford University Press (OUP)",
+  "template": "oup",
+  "template_name": "oup-authoring-template",
+  "template_version": "1.5 (2026/07/14)",
+  "template_source": "https://ctan.org/pkg/oup-authoring-template",
+  "guidelines": "https://academic.oup.com/pages/authoring/journals",
+  "license": "LPPL 1.3",
+  "entry": "main.tex",
+  "output": "main.pdf"
+}

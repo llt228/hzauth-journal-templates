@@ -1,0 +1,17 @@
+{
+  "name": "Reviews of Modern Physics",
+  "title": "Reviews of Modern Physics",
+  "slug": "reviews-of-modern-physics",
+  "level": "A",
+  "sheet": "自然科学类",
+  "issn": "0034-6861",
+  "publisher": "American Physical Society (APS)",
+  "template": "revtex",
+  "template_name": "revtex4-2",
+  "template_version": "4.2f (2022/06/05)",
+  "template_source": "https://ctan.org/pkg/revtex",
+  "guidelines": "https://journals.aps.org/rmp/authors",
+  "license": "LPPL 1.3",
+  "entry": "main.tex",
+  "output": "main.pdf"
+}
