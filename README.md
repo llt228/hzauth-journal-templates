@@ -187,7 +187,7 @@ python3 scripts/verify.py            # 校验目录完整性与 PDF 产物
 | American College of Physicians | 1 |
 | AIP Publishing | 1 |
 
-> 出版商归属由 Crossref 元数据匹配后人工校正；中文期刊与跨表重复项单独处理。未收录原因是“未获得可公开再分发的官方文档类”，不等于该刊不接受 LaTeX。
+> 上表仅列前 20 个出版商；完整 155 条逐刊明细见 [`catalog/skipped.csv`](catalog/skipped.csv)。出版商归属由 Crossref 元数据匹配后人工校正；中文期刊与跨表重复项单独处理。未收录原因是“未获得可公开再分发的官方文档类”，不等于该刊不接受 LaTeX。
 
 ## 模板来源与许可证
 
