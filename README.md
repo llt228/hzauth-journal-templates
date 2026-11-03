@@ -9,8 +9,8 @@
 | 原始表记录（自然科学类 + 人文社科类） | 1634 |
 | A+/A 记录（含跨表重复） | 228 |
 | A+/A 去重后期刊 | 214（A+ 5、A 209） |
-| 本仓库已建立模板 | **59** |
-| 未建立模板 | 155 |
+| 本仓库已建立模板 | **63** |
+| 未建立模板 | 151 |
 
 A+ 共 5 刊：**Cell** 已收录；*Nature*、*Science*、《求是》《中国社会科学》没有检索到可公开获取的官方 LaTeX 模板，因此未建立目录。
 
@@ -100,6 +100,15 @@ A+ 共 5 刊：**Cell** 已收录；*Nature*、*Science*、《求是》《中国
 | --- | --- | --- |
 | Reviews of Modern Physics | A | [`reviews-of-modern-physics`](journals/reviews-of-modern-physics/) |
 
+### Taylor & Francis — Word 模板转换（4 刊）
+
+| 期刊 | 分级 | 目录 |
+| --- | --- | --- |
+| Advances in Physics | A | [`advances-in-physics`](journals/advances-in-physics/) |
+| Educational Psychologist | A | [`educational-psychologist`](journals/educational-psychologist/) |
+| Health Psychology Review | A | [`health-psychology-review`](journals/health-psychology-review/) |
+| Psychological Inquiry | A | [`psychological-inquiry`](journals/psychological-inquiry/) |
+
 ## 目录结构
 
 每个期刊目录结构一致：
@@ -129,18 +138,19 @@ latexmk -pdf main.tex
 ## 模板说明
 
 - `main.tex` 来自出版商官方示例：Elsevier `elsarticle-template-num.tex`、ACS `achemso-demo.tex`、OUP `oup-authoring-template.tex`、IEEE `bare_jrnl.tex`、APS `apssamp.tex`。
+- Taylor & Francis 4 刊的 `main.tex` 由官方 Word 模板 `TF_Template_Word_Windows_2016.dotx` 的占位内容转换；`tandf.cls` 按该 docx 的 A4 页面、上下 2.5 cm / 左右 3 cm 页边距、Times 12 pt 双倍行距、14 pt 标题、11 pt 摘要和标题层级重建。它不是 Taylor & Francis 官方 LaTeX 类。
 - 只做了必要修改：设置期刊名/`achemso` 期刊代码、把文献指向 `references.bib`。
 - Elsevier 官方示例的标题和作者字段原本为空，填入通用占位符 `A \LaTeX{} Submission Template for ...`、`Author Name`、`Institution`；同时删除官方示例中空的 graphical abstract 和 highlights 演示块，避免生成空白首页。
 - 示例正文、作者、单位、摘要和文献都是模板示例，不是真实论文，投稿时必须全部替换。
 - 不要修改 `.cls`、`.sty`、`.bst`、`.cfg` 文件。
 
-## 未收录的 155 刊
+## 未收录的 151 刊
 
 未收录不代表这些期刊不接受 LaTeX 投稿，而是没有找到可公开下载、允许再分发的官方文档类：
 
 - *Nature* 以 Word 为 preferred format，LaTeX 接收后转 Word 排版；
 - *Science*、《求是》《中国社会科学》等未检索到公开官方 LaTeX 模板；
-- Springer Nature、Wiley、SAGE、Taylor & Francis 的官方模板通过 Overleaf 或投稿系统分发，没有可再分发的公开文件；
+- Springer Nature、Wiley、SAGE 等的官方模板通过 Overleaf 或投稿系统分发，没有可再分发的公开文件；
 - 其余期刊未检索到官方 LaTeX 文档类。
 
 本仓库不使用其他期刊的模板冒充目标期刊，也不照着已发表 PDF 手工仿制版式。
@@ -148,4 +158,5 @@ latexmk -pdf main.tex
 ## 许可
 
 - 各期刊目录下的 `.cls`、`.sty`、`.bst`、`.cfg` 和官方示例 `.tex` 文件版权归原出版商所有，保留各自的许可证和版权声明（主要为 LPPL 1.3）。来源见各目录 `AGENTS.md`。
+- Taylor & Francis 4 刊的 `tandf.cls` 是按官方 Word 模板重建的 LaTeX 类，其代码以 MIT 许可证发布；`plainnat.bst` 来自 natbib（LPPL）。
 - 本仓库的目录组织、`AGENTS.md`、`.latexmkrc`、`.gitignore` 和 README 以 MIT 许可证发布，见 [`LICENSE`](LICENSE)。
